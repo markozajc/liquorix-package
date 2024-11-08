@@ -1,3 +1,10 @@
+linux-liquorix (6.11-12) unstable; urgency=medium
+
+  * disable CONFIG_ZSWAP_DEFAULT_ON
+  * update version to 6.11.7-2
+
+ -- Steven Barrett <steven@liquorix.net>  Fri, 08 Nov 2024 15:08:08 -0600
+
 linux-liquorix (6.11-11) unstable; urgency=medium
 
   * merge v6.11.7
