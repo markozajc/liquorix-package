@@ -1,3 +1,11 @@
+linux-liquorix (6.11-13) unstable; urgency=medium
+
+  * merge 6.11.8-1
+  * reapply "ZEN: mm: Stop kswapd early when nothing's waiting for it to free pages"
+  * update version to 6.11.8-1
+
+ -- Steven Barrett <steven@liquorix.net>  Thu, 14 Nov 2024 09:29:09 -0600
+
 linux-liquorix (6.11-12) unstable; urgency=medium
 
   * disable CONFIG_ZSWAP_DEFAULT_ON
