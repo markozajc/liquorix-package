@@ -1,3 +1,10 @@
+linux-liquorix (6.11-15) unstable; urgency=medium
+
+  * merge 6.11.10-1
+  * update version to 6.11.10-1
+
+ -- Steven Barrett <steven@liquorix.net>  Fri, 22 Nov 2024 10:34:50 -0600
+
 linux-liquorix (6.11-14) unstable; urgency=medium
 
   * merge 6.11.9-1
