@@ -1,3 +1,10 @@
+linux-liquorix (6.12-3) unstable; urgency=medium
+
+  * restore proactive compaction with default value of 20
+  * update version to 6.12.2-2
+
+ -- Steven Barrett <steven@liquorix.net>  Thu, 05 Dec 2024 16:27:38 -0600
+
 linux-liquorix (6.12-2) unstable; urgency=medium
 
   * merge v6.12.2
