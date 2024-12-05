@@ -1,3 +1,10 @@
+linux-liquorix (6.12-2) unstable; urgency=medium
+
+  * merge v6.12.2
+  * update version to 6.12.2-1
+
+ -- Steven Barrett <steven@liquorix.net>  Thu, 05 Dec 2024 10:17:10 -0600
+
 linux-liquorix (6.12-1) unstable; urgency=medium
 
   * switch kernel base to v6.12
