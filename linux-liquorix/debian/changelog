@@ -1,3 +1,11 @@
+linux-liquorix (6.12-4) unstable; urgency=medium
+
+  * add fixes for sched ext support (doesn't affect Liquorix)
+  * remove minimum TTL optimization for MG-LRU, causes excessive swapping
+  * update version to 6.12.2-3
+
+ -- Steven Barrett <steven@liquorix.net>  Thu, 05 Dec 2024 17:46:15 -0600
+
 linux-liquorix (6.12-3) unstable; urgency=medium
 
   * restore proactive compaction with default value of 20
