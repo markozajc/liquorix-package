@@ -1,3 +1,10 @@
+linux-liquorix (6.12-5) unstable; urgency=medium
+
+  * merge v6.12.4
+  * update version to 6.12.4-1
+
+ -- Steven Barrett <steven@liquorix.net>  Mon, 09 Dec 2024 09:32:36 -0600
+
 linux-liquorix (6.12-4) unstable; urgency=medium
 
   * add fixes for sched ext support (doesn't affect Liquorix)
